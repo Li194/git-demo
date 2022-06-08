@@ -1,5 +1,5 @@
 helllo LYT is leanning Git!
 helllo LYT is leanning Git!
 helllo LYT is leanning Git!
-master Test
+merge-conflictTest
 
