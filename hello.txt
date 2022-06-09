@@ -1,6 +1,6 @@
-helllo LYT is leanning Git!
-helllo LYT is leanning Git!
-helllo LYT is leanning Git!
+hello LYT is learnning Git!
+hello LYT is learnning Git!
+hello LYT is learnning Git!
 merge-conflictTest
 
 ============================
